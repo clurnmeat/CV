@@ -1,11 +1,11 @@
 body {
-    background-color: #3D5656;
+    background-color: #F0E9D2;
 }
 
 hr {
     border-style: inset none none;
     height: 0px;
-    border-color: #F0E9D2;
+    border-color: #3D5656;
     border-width: 5px;
 }
 
@@ -16,7 +16,9 @@ h1 {
 h3 {
     color: #68B984;
 }
-
+p {
+    color: #F0E9D2
+}
 .masonery {
     border-radius: 100%;
 }
