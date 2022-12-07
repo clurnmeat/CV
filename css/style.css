@@ -1,24 +1,22 @@
 body {
-    background-color: #F0E9D2;
+    background-color: #3D5656;
 }
 
 hr {
     border-style: inset none none;
     height: 0px;
-    border-color: #3D5656;
+    border-color: #F0E9D2;
     border-width: 5px;
 }
 
 h1 {
-    color: #3D56561;
+    color: #CFFDE1;
 }
 
 h3 {
     color: #68B984;
 }
-p {
-    color: white;
-}
+
 .masonery {
     border-radius: 100%;
 }
