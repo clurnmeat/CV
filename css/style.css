@@ -21,6 +21,18 @@ h3 {
     border-radius: 100%;
 }
 
+.white-text {
+    color: white;
+}
+
 p {
+    color: white;
+}
+
+a:link {
+    color: white;
+}
+
+a:visited {
     color: white;
 }
