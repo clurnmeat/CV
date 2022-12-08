@@ -1,0 +1,145 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: "Inter", sans-serif;
+}
+
+h1 {
+    line-height: 2;
+    color: #F0E9D2;
+    margin: 50px auto 0 auto;
+    font-family: "Dancing Script", cursive;
+    font-size: 5.625rem;
+
+}
+
+h2 {
+    font-family: "Nerko One", cursive;
+    font-size: 2.5rem;
+    color: #181D31;
+    font-weight: normal;
+}
+
+h3 {
+    color: #678983;
+    font-family: "Inter", sans-serif;
+}
+
+a {
+    color: #F0E9D2;
+}
+
+p {
+    font-family: "Mukta", sans-serif;
+}
+
+
+.description-text {
+    color: #F0E9D2;
+}
+.pro {
+    text-decoration: underline;
+}
+
+.bottom-cloud {
+    position: absolute;
+}
+
+.top-cloud {
+    position: relative;
+    top: 0;
+    left: 200px;
+    margin: auto;
+}
+
+.profile-pic {
+    border-radius: 100%;
+    height: 200px;
+    width: 200px;
+    padding: 5px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 3;
+    
+}
+
+
+.computer {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.programing-hard {
+    width: 25%;
+    float: right;
+    margin-left: 30px; 
+    margin-top: 20px;   
+}
+
+.top-container {
+    background-color: #181D31;
+    position: relative;
+    padding-top: 200px;
+}
+
+
+.compass-square {
+    float: left;
+    margin-right: 30px;
+    width: 15%;
+}
+
+.bottom-container {
+    background-color: #181D31;
+    border-bottom: 100%;
+    position: relative;
+    top: 17px;
+}
+
+.btn {
+    background: #F0E9D2;
+    background-image: -webkit-linear-gradient(top, #F0E9D2, #F0E9D2);
+    background-image: -moz-linear-gradient(top, #F0E9D2, #F0E9D2);
+    background-image: -ms-linear-gradient(top, #F0E9D2, #F0E9D2);
+    background-image: -o-linear-gradient(top, #F0E9D2, #F0E9D2);
+    background-image: linear-gradient(to bottom, #F0E9D2, #F0E9D2);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    color: #678983;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #181D31;
+    background-image: -webkit-linear-gradient(top, #181D31, #181D31);
+    background-image: -moz-linear-gradient(top, #181D31, #181D31);
+    background-image: -ms-linear-gradient(top, #181D31, #181D31);
+    background-image: -o-linear-gradient(top, #181D31, #181D31);
+    background-image: linear-gradient(to bottom, #181D31, #181D31);
+    text-decoration: none;
+  }
+
+.get-in-touch {
+    margin: 0;
+}
+.button {
+    padding: 20px;
+
+}
+
+.footer-link {
+    padding: 15px;
+    color: #F0E9D2;
+}
+
+.footer-text {
+    color: #F0E9D2;
+}
