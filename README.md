@@ -1,7 +1,3 @@
-# 💫 About Me:
-I'm enrolled in Hackbright Acadmy<br>I love programming
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dionte-walker-71735b246) 
 
